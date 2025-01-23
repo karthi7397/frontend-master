@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Frontend master -Mock Interview / Testmste",
-  description: "Frontend master -Mock Interview / Testmst",
+  title: "Frontend master -Mock Interview / Testmate",
+  description: "Frontend master -Mock Interview / Testmate",
 };
 
 export default function RootLayout({ children }) {
