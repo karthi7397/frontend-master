@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <h1>frontend Master</h1>
+    <h1>Frontend master -Mock Interview / Testmst</h1>
   );
 }
